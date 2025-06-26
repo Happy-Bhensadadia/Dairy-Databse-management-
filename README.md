@@ -25,3 +25,11 @@ Dairy Management database objectives
    6. Basic Reporting & Analytics
       - Generate reports on total sales, most sold products, and low-stock items.
       - Analyse purchase and production trends for better planning.
+     
+   Contributors :
+   Happy bhensadadia 
+   Krish patel
+   Neel shah
+   Dhruv Gohil
+   Kavy Parmar
+   
